@@ -30,7 +30,7 @@
 >           
 >           * [Empathy Map] - https://github.com/IBM-EPBL/IBM-Project-26708-1660034316/tree/main/Empathy%20Map
 >           
->           * [Literature Review] - 
+>           * [Literature Review] - https://github.com/IBM-EPBL/IBM-Project-26708-1660034316/tree/main/Literature%20Survey
 ## Prerequisites :
 ## Anaconda Navigator :
 - Anaconda Navigator is a free and open-source distribution of the Python and R programming languages for data science and machine learning-related applications. It can be installed on Windows, Linux, and macOS. Conda is an open-source, cross-platform,  package management system. Anaconda comes with so very nice tools like JupyterLab, Jupyter Notebook,QtConsole, Spyder, Glueviz, Orange, Rstudio, Visual Studio Code. For this project, we will be using Jupiter notebook and spyder.To install Anaconda navigator and to know how to use Jupyter Notebook a Spyder using Anaconda watch the video given here.
