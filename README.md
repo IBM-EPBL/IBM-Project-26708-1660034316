@@ -1,4 +1,12 @@
 ## Fertilizers Recommendation System For Disease Prediction <img src="https://media1.giphy.com/media/f9Auu2zwYo1XGTsSPg/giphy.gif?cid=ecf05e47tnkhhm9of0gy1c66gntftbo34jm2iv8h5o4tq63e&rid=giphy.gif&ct=s" width="30px">
+## Team:
+    1. Sree Ram U [TL] - 312819205040
+    
+    2. Mohammed Farook C -312819205021
+    
+    3. Balaji M - 312819205006
+    
+    4. Pradeep V - 312819205029
 ## Introduction :
   - Agriculture is the most important sector in today’s life. Most plants are affected by a wide variety of bacterial and fungal diseases. Diseases on plants placed a major constraint on the production and a major threat to food security. Hence, early and accurate identification of plant diseases is essential to ensure high quantity and best quality. In recent years, the number of diseases on plants and the degree of harm caused has increased due to the variation in pathogen varieties, changes in cultivation methods, and inadequate plant protection techniques. 
   - An automated system is introduced to identify different diseases on plants by checking the symptoms shown on the leaves of the plant. Deep learning techniques are used to identify the diseases and suggest the precautions that can be taken for those diseases. 
@@ -59,3 +67,5 @@
   
  - Fruit-Training.ipynb, Vegetable-Training, and Plant-Disease-Testing.ipynb are the training and testing notebooks.
  - IBM folder contains IBM deployment files.
+ 
+ Made with ❤ in India | Dept Of Information Technology | Agni College Of Technology
