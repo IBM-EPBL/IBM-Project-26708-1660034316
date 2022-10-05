@@ -42,3 +42,20 @@
        5. Highly scalability of computation.
  - Flask: Web framework used for building  Web applications.Watch the given below video to Install the necessary Packages.
  [https://youtu.be/akj3_wTploU]
+ ## Project Structure :
+ ![image](https://user-images.githubusercontent.com/78264969/193993919-df7c31a5-4d9e-4f67-b605-441597b45d92.png)
+ - The dataset folder contains two folders for the fruit and vegetable dataset which again contains a test and train folder, each of them have images of different diseases.
+- The Flask folder has all the files necessary to build the flask application. 
+
+     1. Templates folder has the HTML pages.
+  
+     2. Uploads folder has the uploads made by the user.
+  
+     3. app.py is the python script for server-side computing.
+  
+     4. .h5 files are the model files that are to be saved after model building.
+  
+     5. Precautions excel files contain the precautions for all kinds of diseases.
+  
+ - Fruit-Training.ipynb, Vegetable-Training, and Plant-Disease-Testing.ipynb are the training and testing notebooks.
+ - IBM folder contains IBM deployment files.
