@@ -28,7 +28,7 @@
 >       
 >           * [Problem Statement] - 
 >           
->           * [Empathy Map] - 
+>           * [Empathy Map] - https://github.com/IBM-EPBL/IBM-Project-26708-1660034316/tree/main/Empathy%20Map
 >           
 >           * [Literature Review] - 
 ## Prerequisites :
