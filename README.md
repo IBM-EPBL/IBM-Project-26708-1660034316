@@ -30,7 +30,7 @@
 
 >       * Project Progress 
 >       
->           * [Problem Statement] - 
+>           * [Problem Statement] - https://github.com/IBM-EPBL/IBM-Project-26708-1660034316/blob/main/Problem%20Statement/Define%20Problem%20Statement%20for%20fertilizer%20recommendation%20system%20for%20disease%20prediction.pdf
 >           
 >           * [Empathy Map] - https://github.com/IBM-EPBL/IBM-Project-26708-1660034316/tree/main/Empathy%20Map
 >           
