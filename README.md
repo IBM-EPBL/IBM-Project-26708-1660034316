@@ -39,15 +39,19 @@
 
 ## Prior Knowledge :
  - Supervised and unsupervised learning:
-    - Watch the below video to know about the types of machine learnings;
+    - Watch the below video to know about the types of machine learnings.
     - https://youtu.be/kE5QZ8G_78c
  - Regression Classification and Clustering :
+    - Watch the below video to know about the Regression Classification and Clustering.
     - https://youtu.be/6za9_mh3uTE
  - Artificial Neural Networks :
+    - Watch the below video to know about the ANN[Artificial Neural Networks].
     - https://youtu.be/DKSZHN7jftI
  - Convolution Neural Networks :
+    - Watch the below video to know about the CNN[Convolution Neural Networks].
     - https://youtu.be/cleLMnmNMpY
  - Flask :
+    - Watch the below video to know about the Flask.
     - https://youtu.be/lj4I_CvBnt0
 ## Prerequisites :
 ## Anaconda Navigator :
