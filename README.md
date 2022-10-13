@@ -7,10 +7,7 @@
     3. Balaji M - 312819205006
     
     4. Pradeep V - 312819205029
-## Problem Statement :
-  - In India, The Agriculture industry is extremely vital and crucial for economic and social development and jobs. In India, the agricultural sector provides a living for almost 48% of the population. As per the 2019-2020 economic survey, an Indian farmer's median wage in 16 states is Rupees 2500. Most of the Indian population depends on agriculture for their livelihood. Agriculture gives an opportunity of employment to the village people to develop a country like India on large scale and give a push in the economic sector. The majority of farmers face the problem of planting an inappropriate crop for their land based on a conventional or non-scientific approach. This is a challenging task for a country like India, where agriculture feeds approximately 42% of the population. And the outcomes for the farmer of choosing the wrong crop for land is moving towards metro city for livelihoods, suicide, quitting the agriculture and give land on lease to industrialist or use for the non-agriculture purpose. The outcome of wrong crop selection is less yield and less profit.
-## Problem Solution :
-  - The solution to the problem is Machine learning, which is one of the applications of Artificial Intelligence, is being used to implement the proposed system. Crop recommendation is going to recommend you the best crop you can grow in your land as per the soil nutrition value and along with as per the climate in that region. And recommending the best fertilizer for every particular crop is also a challenging task. And the other and most important issue is when a plant gets caught by heterogeneous diseases that effect on less amount of agriculture production and compromises with quality as well. To overcome all these issues this recommendation has been proposed . Nowadays a lot of research and work is being implemented in the smart and modern agriculture domain. Crop recommendation is characterized by a soil database comprised of Nitrogen, Phosphorus, potassium. The ensembles technique is used to build a recommendation model that combines the prediction of multiple machine learning. Models to recommend the right crop based on soil value and the best fertilizer to use.
+
 ## Introduction :
   - Agriculture is the most important sector in today’s life. Most plants are affected by a wide variety of bacterial and fungal diseases. Diseases on plants placed a major constraint on the production and a major threat to food security. Hence, early and accurate identification of plant diseases is essential to ensure high quantity and best quality. In recent years, the number of diseases on plants and the degree of harm caused has increased due to the variation in pathogen varieties, changes in cultivation methods, and inadequate plant protection techniques. 
   - An automated system is introduced to identify different diseases on plants by checking the symptoms shown on the leaves of the plant. Deep learning techniques are used to identify the diseases and suggest the precautions that can be taken for those diseases. 
@@ -26,15 +23,32 @@
         4. You will be able to know how to find the accuracy of the model.
 
         5. You will be able to build web applications using the Flask framework.   
-## Project workflow :
+## Project Flow :
+- A web Application is built  where;
+    - Farmers can interact with the portal build
+    - Interacts with the user interface to upload images of diseased leaf
+    - Our model built analyses the Disease and suggests the farmer with fertilizers are to be used 
+- To accomplish the above task you must complete the below activities and tasks;
+    - Download the dataset.
+    - Classify the dataset into train and test sets.
+    - Add the neural network layers.
+    - Load the trained images and fit the model. 
+    - Test the model.
+    - Save the model and its dependencies.
+    - Build a Web application using a flask that integrates with the model built.
 
->       * Project Progress 
->       
->           * [Problem Statement] - https://github.com/IBM-EPBL/IBM-Project-26708-1660034316/blob/main/Problem%20Statement/Define%20Problem%20Statement%20for%20fertilizer%20recommendation%20system%20for%20disease%20prediction.pdf
->           
->           * [Empathy Map] - https://github.com/IBM-EPBL/IBM-Project-26708-1660034316/tree/main/Empathy%20Map
->           
->           * [Literature Review] - https://github.com/IBM-EPBL/IBM-Project-26708-1660034316/tree/main/Literature%20Survey
+## Prior Knowledge :
+ - Supervised and unsupervised learning:
+    - Watch the below video to know about the types of machine learnings;
+    - https://youtu.be/kE5QZ8G_78c
+ - Regression Classification and Clustering :
+    - https://youtu.be/6za9_mh3uTE
+ - Artificial Neural Networks :
+    - https://youtu.be/DKSZHN7jftI
+ - Convolution Neural Networks :
+    - https://youtu.be/cleLMnmNMpY
+ - Flask :
+    - https://youtu.be/lj4I_CvBnt0
 ## Prerequisites :
 ## Anaconda Navigator :
 - Anaconda Navigator is a free and open-source distribution of the Python and R programming languages for data science and machine learning-related applications. It can be installed on Windows, Linux, and macOS. Conda is an open-source, cross-platform,  package management system. Anaconda comes with so very nice tools like JupyterLab, Jupyter Notebook,QtConsole, Spyder, Glueviz, Orange, Rstudio, Visual Studio Code. For this project, we will be using Jupiter notebook and spyder.To install Anaconda navigator and to know how to use Jupyter Notebook a Spyder using Anaconda watch the video given here.
