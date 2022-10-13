@@ -89,5 +89,40 @@
   
  - Fruit-Training.ipynb, Vegetable-Training, and Plant-Disease-Testing.ipynb are the training and testing notebooks.
  - IBM folder contains IBM deployment files.
+ ## Completed Tasks :
+ 
+ ✅Assignments
+ 
+    - ✅Assignment 1
+    
+    - ✅Assignment 2
+    
+    - ✅Assignment 3
+ ✅Ideation Phase
+ 
+    - ✅Empathy Map
+    
+    - ✅Problem Statement
+    
+    - ✅Litrature Survey
+    
+    - ✅Brainstorm & Idea
+ ✅Project design Phase I
+ 
+    - ✅Proposed Solution
+    
+    - ✅Problem Solution Fit
+    
+    - ✅Solution Architecture
+ ✅Project Design Phase II
+ 
+    - ✅Customer Journey Map
+    
+    - ✅Data Flow Diagrams and User Stories
+    
+    - ✅Solution Requirements
+    
+    - ✅Technology Stack & Architecture
+ 
  
  Made with ❤ in India | Dept Of Information Technology | Agni College Of Technology
