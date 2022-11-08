@@ -96,4 +96,4 @@
  - IBM folder contains IBM deployment files.
 
   
- Made with ❤ in India | Dept Of Information Technology | Agni College Of Technology
+ Made with ❤ in India | Agni College Of Technology
