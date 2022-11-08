@@ -40,22 +40,6 @@
     - Save the model and its dependencies.
     - Build a Web application using a flask that integrates with the model built.
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="30px"> Prior Knowledge :
- - Supervised and unsupervised learning:
-    - Watch the below video to know about the types of machine learnings.
-    - https://youtu.be/kE5QZ8G_78c
- - Regression Classification and Clustering :
-    - Watch the below video to know about the Regression Classification and Clustering.
-    - https://youtu.be/6za9_mh3uTE
- - Artificial Neural Networks :
-    - Watch the below video to know about the ANN[Artificial Neural Networks].
-    - https://youtu.be/DKSZHN7jftI
- - Convolution Neural Networks :
-    - Watch the below video to know about the CNN[Convolution Neural Networks].
-    - https://youtu.be/cleLMnmNMpY
- - Flask :
-    - Watch the below video to know about the Flask.
-    - https://youtu.be/lj4I_CvBnt0
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="30px"> Prerequisites :
 ## Anaconda Navigator :
 - Anaconda Navigator is a free and open-source distribution of the Python and R programming languages for data science and machine learning-related applications. It can be installed on Windows, Linux, and macOS. Conda is an open-source, cross-platform,  package management system. Anaconda comes with so very nice tools like JupyterLab, Jupyter Notebook,QtConsole, Spyder, Glueviz, Orange, Rstudio, Visual Studio Code. For this project, we will be using Jupiter notebook and spyder.To install Anaconda navigator and to know how to use Jupyter Notebook a Spyder using Anaconda watch the video given here.
