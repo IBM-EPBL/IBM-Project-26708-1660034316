@@ -35,7 +35,7 @@
     
     3. Balaji M [TM2] - 312819205006
     
-    4. Pradeep V [TM3] - 312819205029
+    4. Pradeep V [TM3] - 312819205029 
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="30px"> Introduction :
   - Agriculture is the most important sector in today’s life. Most plants are affected by a wide variety of bacterial and fungal diseases. Diseases on plants placed a major constraint on the production and a major threat to food security. Hence, early and accurate identification of plant diseases is essential to ensure high quantity and best quality. In recent years, the number of diseases on plants and the degree of harm caused has increased due to the variation in pathogen varieties, changes in cultivation methods, and inadequate plant protection techniques. 
