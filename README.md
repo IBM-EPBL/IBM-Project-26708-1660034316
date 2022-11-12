@@ -13,7 +13,7 @@
   - An automated system is introduced to identify different diseases on plants by checking the symptoms shown on the leaves of the plant. Deep learning techniques are used to identify the diseases and suggest the precautions that can be taken for those diseases.
   ![image](https://user-images.githubusercontent.com/100955009/201482518-8bb594dc-21f6-4199-9313-fb56ccd25d68.png)
   
-## Built with 🛠️
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="30px"> Built with 🛠️
 ![image](https://user-images.githubusercontent.com/78264969/197322101-eec3176d-64f8-4c31-a791-7d4a791e632a.png)
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="30px"> Project Objectives: 
