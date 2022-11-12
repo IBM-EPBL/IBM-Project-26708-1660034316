@@ -42,7 +42,7 @@
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="30px"> Prerequisites :
 ## Anaconda Navigator :
-- 
+- Anaconda Navigator is a free and open-source distribution of the Python and R programming languages for data science and machine learning-related applications. It can be installed on Windows, Linux, and macOS. Conda is an open-source, cross-platform,  package management system. Anaconda comes with so very nice tools like JupyterLab, Jupyter Notebook,QtConsole, Spyder, Glueviz, Orange, Rstudio, Visual Studio Code. For this project, we will be using Jupiter notebook and spyder.To install Anaconda navigator and to know how to use Jupyter Notebook a Spyder using Anaconda watch the video given here.
 [https://youtu.be/5mDYijMfSzs]
  ### To build Deep learning models you must require the following packages :
  - Tensor flow: TensorFlow is an end-to-end open-source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-of-the-art in ML and developers can easily build and deploy ML powered applications.
